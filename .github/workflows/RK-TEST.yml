@@ -1,4 +1,4 @@
-name: IPQ60XX-ALL
+name: RK-TEST
 
 on:
   workflow_dispatch:
