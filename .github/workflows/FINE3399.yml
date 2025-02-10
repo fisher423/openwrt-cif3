@@ -6,7 +6,7 @@ on:
     - cron: 0 19 * * *
 
 env:
-  REPO_URL: https://github.com/aguoxing/immortalwrt.git
+  REPO_URL: LiBwrt/kernel-6.12.git
   REPO_BRANCH: test
   CONFIG_FILE: configs/fine3399.config
   DIY_SCRIPT: diy-script.sh
